@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb0186B14A3739a4E3f81B4e513f8eDB1Adc0118E",
+  "SCAN_LINK": "https://ftmscan.com/address/0xb0186b14a3739a4e3f81b4e513f8edb1adc0118e",
+  "NETWORK": {
+    "NAME": "Fantom Opera",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Fly Boyz",
+  "SYMBOL": "FLYBOY",
+  "MAX_SUPPLY": 169,
+  "WEI_COST": 52000000000000000000,
+  "DISPLAY_COST": 52,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTKey",
+  "MARKETPLACE_LINK": "https://nftkey.app/",
+  "SHOW_BACKGROUND": true
+}
